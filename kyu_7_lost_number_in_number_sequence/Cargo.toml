@@ -1,0 +1,6 @@
+[package]
+name = "kyu_7_lost_number_in_number_sequence"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
