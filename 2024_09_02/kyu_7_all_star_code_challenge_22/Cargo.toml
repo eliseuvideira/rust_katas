@@ -1,0 +1,6 @@
+[package]
+name = "kyu_7_all_star_code_challenge_22"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
