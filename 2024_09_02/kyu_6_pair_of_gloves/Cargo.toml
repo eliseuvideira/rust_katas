@@ -1,0 +1,6 @@
+[package]
+name = "kyu_6_pair_of_gloves"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
