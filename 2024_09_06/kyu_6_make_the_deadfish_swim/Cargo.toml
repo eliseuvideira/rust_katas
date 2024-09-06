@@ -1,0 +1,6 @@
+[package]
+name = "kyu_6_make_the_deadfish_swim"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
