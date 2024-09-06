@@ -1,0 +1,6 @@
+[package]
+name = "kyu_5_maximum_subarray_sum"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
