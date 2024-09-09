@@ -1,0 +1,6 @@
+[package]
+name = "kyu_6_prize_draw"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
