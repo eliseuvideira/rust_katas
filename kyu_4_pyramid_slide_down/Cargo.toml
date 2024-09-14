@@ -1,0 +1,6 @@
+[package]
+name = "kyu_4_pyramid_slide_down"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
